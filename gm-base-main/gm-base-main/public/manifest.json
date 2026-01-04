@@ -1,0 +1,28 @@
+{
+  "name": "GM Base",
+  "short_name": "GM Base",
+  "description": "Daily GM streak tracker on Base blockchain. Say GM once per day and build your streak!",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#581c87",
+  "theme_color": "#7c3aed",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icon.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.jpg",
+      "sizes": "1024x1024",
+      "type": "image/jpeg",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [],
+  "categories": ["social", "lifestyle"],
+  "lang": "en-US",
+  "dir": "ltr"
+}
